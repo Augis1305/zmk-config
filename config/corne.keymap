@@ -6,7 +6,7 @@
 
 /* map Corne's extra keys */
 #define X_LT &kp RC(RG(Q))
-#define X_LM &kp LS(RETURN)
+#define X_LM &kp ESC
 #define X_LB &kp (LG(D))
 
 #define X_RT &none
