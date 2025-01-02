@@ -10,7 +10,7 @@
 #define X_LM &kp ESC
 #define X_LB &kp (LG(D))
 
-#define X_RT &kp FN
+#define X_RT &tog FN
 #define X_RM &tog NAV
 #define X_RB &kp LG(LS(LA(R)))
 
